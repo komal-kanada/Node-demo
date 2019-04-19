@@ -58,6 +58,6 @@
 
 // ************** Buffer Length
 
-// var buffer1= new Buffer('BacancyTechnology');
-// console.log('content',buffer1.length);
+var buffer1= new Buffer('BacancyTechnology');
+console.log('content',buffer1.length);
 
